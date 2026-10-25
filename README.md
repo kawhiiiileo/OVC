@@ -12,7 +12,7 @@
 
 <p align="center">
   <sup>1</sup>The Hong Kong University of Science and Technology (Guangzhou)<br>
-  <sup>2</sup>Shanghai Jiao Tong University &nbsp; <sup>3</sup>Shadow Weave<br>
+  <sup>2</sup>Shanghai Jiao Tong University &nbsp; <sup>3</sup>Shadoweave<br>
   <sup>4</sup>University of Electronic Science and Technology of China<br>
   <sup>*</sup>Equal contribution &nbsp; <sup>†</sup>Corresponding authors
 </p>
