@@ -1,0 +1,26 @@
+# Qwen3.5-capable dependency baseline; GPU training must be validated on the target host.
+# Install FlashAttention separately with --no-build-isolation after installing torch.
+torch==2.10.0
+torchvision==0.25.0
+vllm==0.19.1
+transformers==5.8.1
+ray[default]==2.55.1
+tensordict==0.10.0
+numpy>=2.0,<3
+accelerate
+codetiming
+datasets
+dill
+hydra-core
+liger-kernel
+pandas
+peft
+pyarrow>=19.0.0
+pylatexenc
+torchdata
+wandb==0.28.0
+packaging
+tensorboard==2.20.0
+mathruler==0.1.0
+qwen-vl-utils
+TransferQueue==0.1.8

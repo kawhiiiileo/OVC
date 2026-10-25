@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ovc-experiments"
+version = "0.1.0.dev0"
+description = "OVC training for Qwen3.5-9B on Math77K"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ovc_release*", "verl*", "recipe", "recipe.*"]
+namespaces = true
+
+[tool.setuptools.package-data]
+verl = ["version/*", "**/*.yaml"]
+recipe = ["**/*.yaml", "**/*.json", "**/*.sh"]
