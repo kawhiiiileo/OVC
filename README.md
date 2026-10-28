@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kawhiiiileo.github.io/OVC_PAGE/"><img src="https://img.shields.io/badge/Project-Page-487C68" alt="Project page"></a>
-  <a href="https://kawhiiiileo.github.io/OVC_PAGE/assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-B85E57" alt="Paper PDF"></a>
+  <a href="https://arxiv.org/abs/2610.32324"><img src="https://img.shields.io/badge/Paper-arXiv-B85E57" alt="Paper on arXiv"></a>
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ and training-data setting; individual benchmark gains vary.
 | MathVerse | 77.36 | 77.74 | 76.80 |
 | **Average** | **67.46** | **68.92** | **70.78** |
 
-The [paper](https://kawhiiiileo.github.io/OVC_PAGE/assets/paper.pdf) also reports
+The [paper](https://arxiv.org/abs/2610.32324) also reports
 DelTA, VPPO and AT-RL comparisons, component ablations, and zero-shot transfer.
 
 </details>
@@ -227,7 +227,7 @@ tests/                      CPU tests
 
 ## 📝 Citation
 
-If you use OVC in your research, please cite our manuscript:
+If you use OVC in your research, please cite our paper:
 
 ```bibtex
 @misc{han2026ovc,
@@ -236,8 +236,10 @@ If you use OVC in your research, please cite our manuscript:
                   Song, Jingwei and Yang, Zequn and Shang, Xuanming and Ding, Li and
                   Guo, Zhijiang and Zhang, Linfeng},
   year         = {2026},
-  howpublished = {Research manuscript},
-  url          = {https://kawhiiiileo.github.io/OVC_PAGE/}
+  eprint       = {2610.32324},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.AI},
+  url          = {https://arxiv.org/abs/2610.32324}
 }
 ```
 
