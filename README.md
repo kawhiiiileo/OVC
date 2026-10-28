@@ -230,16 +230,14 @@ tests/                      CPU tests
 If you use OVC in your research, please cite our paper:
 
 ```bibtex
-@misc{han2026ovc,
-  title        = {From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning},
-  author       = {Han, Yuhang and Liu, Dingning and Chen, Yujie and Zhang, Yaojie and
-                  Song, Jingwei and Yang, Zequn and Shang, Xuanming and Ding, Li and
-                  Guo, Zhijiang and Zhang, Linfeng},
-  year         = {2026},
-  eprint       = {2610.32324},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.AI},
-  url          = {https://arxiv.org/abs/2610.32324}
+@misc{han2026visualaffinitylearningcredit,
+  title={From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning},
+  author={Yuhang Han and Dingning Liu and Yujie Chen and Yaojie Zhang and Jingwei Song and Zequn Yang and Xuanming Shang and Li Ding and Zhijiang Guo and Linfeng Zhang},
+  year={2026},
+  eprint={2610.32324},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2610.32324},
 }
 ```
 
